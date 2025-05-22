@@ -4,7 +4,4 @@
 - name: project_name
   type: string
   default: test_project
-- name: project_name
-  type: string
-  default: test_project
 
