@@ -6,7 +6,7 @@
   in:
     iterable: range
     start: 1
-    stop: 5
+    stop: 6
   do: !include create-result-slides.steps.yaml
 - action: save_report
   file_path: file_out.wcax
